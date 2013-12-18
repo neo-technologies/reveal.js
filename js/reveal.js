@@ -5,7 +5,7 @@
  *
  * Copyright (C) 2013 Hakim El Hattab, http://hakim.se
  */
-var Reveal = (function(){
+Reveal = (function(){
 
 	'use strict';
 
